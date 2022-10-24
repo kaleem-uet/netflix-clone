@@ -1,0 +1,11 @@
+.container {
+    padding: 40px;
+    cursor: pointer;
+    position: relative;
+    
+  }
+  
+  .slick-slide img {
+    margin: auto;
+  }
+  
